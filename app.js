@@ -51,13 +51,13 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCedU_54NAoAQkrbHSIt4Scv_JMcMdfP8U",
+  apiKey: "xxxxxxxxxxxxxxxxx",
   authDomain: "to-d0-list-app.firebaseapp.com",
   databaseURL: "https://to-d0-list-app-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "to-d0-list-app",
   storageBucket: "to-d0-list-app.firebasestorage.app",
-  messagingSenderId: "911055586392",
-  appId: "1:911055586392:web:1836ae5510f96fc400362d"
+  messagingSenderId: "xxxxxxxxxxxxx",
+  appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 };
 
 // Initialize Firebase
